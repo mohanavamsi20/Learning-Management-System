@@ -1,0 +1,35 @@
+@charset "ISO-8859-1";
+body {
+  font-family: sans-serif;
+}
+.sign-up-form {
+  width: 300px;
+  box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+  border-radius: 20px;
+  background: skyblue;
+  padding: 10px;
+  margin: 2% auto 0;
+  text-align: centre;
+}
+.input-box {
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px 0;
+  width: 100%;
+  border: 1px solid #999;
+  outline: none;
+}
+a:hover {
+  text-decoration: none;
+  color: black;
+  background-color: white;
+  font-size: 15px;
+}
+
+.footer{
+  width: 100%;
+  opacity: 0.7;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
